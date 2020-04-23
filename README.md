@@ -1,2 +1,4 @@
 # digital-ink-library-java
-Library for digital ink, written in Java. 
+
+## Build instructions
+Adjust version number in build.gradle and run```gradlew build``` afterwards copy manually to dist folder.
